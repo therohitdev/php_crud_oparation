@@ -3,8 +3,8 @@
     echo "<link rel='stylesheet' href='https://w3schools.com/w3css/4/w3.css'/>";
 
     define('host','localhost');
-    define('user','pmauser');
-    define('pwd','Rohit1998@');
+    define('user','----'); /*Enter username */
+    define('pwd','-----'); /*Enter password */
     define('db','learn');
 
 
